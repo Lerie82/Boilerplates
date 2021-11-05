@@ -2,5 +2,3 @@
 
 - HTML
 - Flutter (Dart lang)
-=======
-# Boilerplates
