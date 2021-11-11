@@ -1,6 +1,6 @@
 ## Boilerplates
 
-- HTML
- - Basic
- - With META Tags
+- HTML Basic
+- HTML with META Tags
 - Flutter (Dart lang)
+- WordPress Plugin Basic
